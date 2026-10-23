@@ -1,0 +1,529 @@
+{
+  "model": "classic",
+  "palette": {
+    "blue": "#346A98",
+    "deep": "#24435F",
+    "light": "#5387B1",
+    "navy": "#283B50",
+    "shell": "#D9DFDF",
+    "visor": "#343F4D",
+    "gold": "#DEA34D",
+    "shine": "#F1CF82",
+    "boot": "#CED6D6",
+    "sole": "#273746"
+  },
+  "base": {
+    "head": "shell",
+    "body": "blue",
+    "right_arm": "blue",
+    "left_arm": "blue",
+    "right_leg": "navy",
+    "left_leg": "navy"
+  },
+  "paint": [
+    {
+      "part": "head",
+      "layer": "base",
+      "face": "front",
+      "rect": [
+        0,
+        1,
+        8,
+        5
+      ],
+      "color": "visor"
+    },
+    {
+      "part": "head",
+      "layer": "base",
+      "face": "front",
+      "rect": [
+        1,
+        2,
+        6,
+        3
+      ],
+      "color": "gold"
+    },
+    {
+      "part": "head",
+      "layer": "base",
+      "face": "front",
+      "rect": [
+        1,
+        2,
+        2,
+        1
+      ],
+      "color": "shine"
+    },
+    {
+      "part": "head",
+      "layer": "base",
+      "face": "front",
+      "rect": [
+        0,
+        6,
+        8,
+        1
+      ],
+      "color": "deep"
+    },
+    {
+      "part": "head",
+      "layer": "base",
+      "face": "left",
+      "rect": [
+        0,
+        1,
+        8,
+        1
+      ],
+      "color": "deep"
+    },
+    {
+      "part": "head",
+      "layer": "base",
+      "face": "right",
+      "rect": [
+        0,
+        1,
+        8,
+        1
+      ],
+      "color": "deep"
+    },
+    {
+      "part": "body",
+      "layer": "base",
+      "face": "front",
+      "rect": [
+        3,
+        0,
+        2,
+        12
+      ],
+      "color": "deep"
+    },
+    {
+      "part": "body",
+      "layer": "base",
+      "face": "front",
+      "rect": [
+        1,
+        3,
+        2,
+        3
+      ],
+      "color": "shell"
+    },
+    {
+      "part": "body",
+      "layer": "base",
+      "face": "front",
+      "rect": [
+        1,
+        3,
+        1,
+        1
+      ],
+      "color": "gold"
+    },
+    {
+      "part": "body",
+      "layer": "base",
+      "face": "back",
+      "rect": [
+        2,
+        2,
+        4,
+        7
+      ],
+      "color": "deep"
+    },
+    {
+      "part": "right_arm",
+      "layer": "base",
+      "face": "front",
+      "rect": [
+        0,
+        8,
+        4,
+        4
+      ],
+      "color": "deep"
+    },
+    {
+      "part": "right_arm",
+      "layer": "base",
+      "face": "front",
+      "rect": [
+        0,
+        2,
+        4,
+        1
+      ],
+      "color": "light"
+    },
+    {
+      "part": "right_arm",
+      "layer": "base",
+      "face": "back",
+      "rect": [
+        0,
+        8,
+        4,
+        4
+      ],
+      "color": "deep"
+    },
+    {
+      "part": "right_arm",
+      "layer": "base",
+      "face": "back",
+      "rect": [
+        0,
+        2,
+        4,
+        1
+      ],
+      "color": "light"
+    },
+    {
+      "part": "right_arm",
+      "layer": "base",
+      "face": "left",
+      "rect": [
+        0,
+        8,
+        4,
+        4
+      ],
+      "color": "deep"
+    },
+    {
+      "part": "right_arm",
+      "layer": "base",
+      "face": "left",
+      "rect": [
+        0,
+        2,
+        4,
+        1
+      ],
+      "color": "light"
+    },
+    {
+      "part": "right_arm",
+      "layer": "base",
+      "face": "right",
+      "rect": [
+        0,
+        8,
+        4,
+        4
+      ],
+      "color": "deep"
+    },
+    {
+      "part": "right_arm",
+      "layer": "base",
+      "face": "right",
+      "rect": [
+        0,
+        2,
+        4,
+        1
+      ],
+      "color": "light"
+    },
+    {
+      "part": "left_arm",
+      "layer": "base",
+      "face": "front",
+      "rect": [
+        0,
+        8,
+        4,
+        4
+      ],
+      "color": "deep"
+    },
+    {
+      "part": "left_arm",
+      "layer": "base",
+      "face": "front",
+      "rect": [
+        0,
+        2,
+        4,
+        1
+      ],
+      "color": "light"
+    },
+    {
+      "part": "left_arm",
+      "layer": "base",
+      "face": "back",
+      "rect": [
+        0,
+        8,
+        4,
+        4
+      ],
+      "color": "deep"
+    },
+    {
+      "part": "left_arm",
+      "layer": "base",
+      "face": "back",
+      "rect": [
+        0,
+        2,
+        4,
+        1
+      ],
+      "color": "light"
+    },
+    {
+      "part": "left_arm",
+      "layer": "base",
+      "face": "left",
+      "rect": [
+        0,
+        8,
+        4,
+        4
+      ],
+      "color": "deep"
+    },
+    {
+      "part": "left_arm",
+      "layer": "base",
+      "face": "left",
+      "rect": [
+        0,
+        2,
+        4,
+        1
+      ],
+      "color": "light"
+    },
+    {
+      "part": "left_arm",
+      "layer": "base",
+      "face": "right",
+      "rect": [
+        0,
+        8,
+        4,
+        4
+      ],
+      "color": "deep"
+    },
+    {
+      "part": "left_arm",
+      "layer": "base",
+      "face": "right",
+      "rect": [
+        0,
+        2,
+        4,
+        1
+      ],
+      "color": "light"
+    },
+    {
+      "part": "right_leg",
+      "layer": "base",
+      "face": "front",
+      "rect": [
+        0,
+        9,
+        4,
+        2
+      ],
+      "color": "boot"
+    },
+    {
+      "part": "right_leg",
+      "layer": "base",
+      "face": "front",
+      "rect": [
+        0,
+        11,
+        4,
+        1
+      ],
+      "color": "sole"
+    },
+    {
+      "part": "right_leg",
+      "layer": "base",
+      "face": "back",
+      "rect": [
+        0,
+        9,
+        4,
+        2
+      ],
+      "color": "boot"
+    },
+    {
+      "part": "right_leg",
+      "layer": "base",
+      "face": "back",
+      "rect": [
+        0,
+        11,
+        4,
+        1
+      ],
+      "color": "sole"
+    },
+    {
+      "part": "right_leg",
+      "layer": "base",
+      "face": "left",
+      "rect": [
+        0,
+        9,
+        4,
+        2
+      ],
+      "color": "boot"
+    },
+    {
+      "part": "right_leg",
+      "layer": "base",
+      "face": "left",
+      "rect": [
+        0,
+        11,
+        4,
+        1
+      ],
+      "color": "sole"
+    },
+    {
+      "part": "right_leg",
+      "layer": "base",
+      "face": "right",
+      "rect": [
+        0,
+        9,
+        4,
+        2
+      ],
+      "color": "boot"
+    },
+    {
+      "part": "right_leg",
+      "layer": "base",
+      "face": "right",
+      "rect": [
+        0,
+        11,
+        4,
+        1
+      ],
+      "color": "sole"
+    },
+    {
+      "part": "left_leg",
+      "layer": "base",
+      "face": "front",
+      "rect": [
+        0,
+        9,
+        4,
+        2
+      ],
+      "color": "boot"
+    },
+    {
+      "part": "left_leg",
+      "layer": "base",
+      "face": "front",
+      "rect": [
+        0,
+        11,
+        4,
+        1
+      ],
+      "color": "sole"
+    },
+    {
+      "part": "left_leg",
+      "layer": "base",
+      "face": "back",
+      "rect": [
+        0,
+        9,
+        4,
+        2
+      ],
+      "color": "boot"
+    },
+    {
+      "part": "left_leg",
+      "layer": "base",
+      "face": "back",
+      "rect": [
+        0,
+        11,
+        4,
+        1
+      ],
+      "color": "sole"
+    },
+    {
+      "part": "left_leg",
+      "layer": "base",
+      "face": "left",
+      "rect": [
+        0,
+        9,
+        4,
+        2
+      ],
+      "color": "boot"
+    },
+    {
+      "part": "left_leg",
+      "layer": "base",
+      "face": "left",
+      "rect": [
+        0,
+        11,
+        4,
+        1
+      ],
+      "color": "sole"
+    },
+    {
+      "part": "left_leg",
+      "layer": "base",
+      "face": "right",
+      "rect": [
+        0,
+        9,
+        4,
+        2
+      ],
+      "color": "boot"
+    },
+    {
+      "part": "left_leg",
+      "layer": "base",
+      "face": "right",
+      "rect": [
+        0,
+        11,
+        4,
+        1
+      ],
+      "color": "sole"
+    }
+  ]
+}
